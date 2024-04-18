@@ -141,11 +141,11 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Grid_Additional_Height: 0.04
-    - _Grid_Line_Width: 0.275
-    - _Grid_Tiling: 30
+    - _Grid_Additional_Height: 0
+    - _Grid_Line_Width: 0
+    - _Grid_Tiling: 25
     - _Grid_Width: 0.18
-    - _Height_Color_multiplier: 6.05
+    - _Height_Color_multiplier: 5.02
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
