@@ -160,7 +160,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 1, g: 0.63669443, b: 0.3066038, a: 0}
+  m_BackGroundColor: {r: 0.30588233, g: 0.4621673, b: 1, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -727,8 +727,32 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0bd66fec6b5c4724a894b753abdca271,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1316005964}
   m_SourcePrefab: {fileID: 100100000, guid: 0bd66fec6b5c4724a894b753abdca271, type: 3}
+--- !u!1 &1316005963 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0bd66fec6b5c4724a894b753abdca271,
+    type: 3}
+  m_PrefabInstance: {fileID: 1316005962}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1316005964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316005963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2d3c56759360054baeb5e3236ee0664, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  synth: {fileID: 2100000, guid: 70d2b03d3c4337e409efe7e6ff3bca31, type: 2}
+  isTimeBased: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

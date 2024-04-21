@@ -145,7 +145,7 @@ Material:
     - _Grid_Line_Width: 0
     - _Grid_Tiling: 25
     - _Grid_Width: 0.18
-    - _Height_Color_multiplier: 5.02
+    - _Height_Color_multiplier: 9.43
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -153,7 +153,7 @@ Material:
     - _QueueOffset: 0
     - _Radial_Push: 0
     - _ReceiveShadows: 1
-    - _Sine_Amplitude: 4.21
+    - _Sine_Amplitude: 6
     - _Sine_Speed: 1
     - _Sine_frequency: 500
     - _Smoothness: 0.5
